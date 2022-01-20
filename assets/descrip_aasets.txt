@@ -1,0 +1,4 @@
+Assets folder will include all the design file that is going to be used in the projects. Examples could be of
+-Ai Files
+-Psd Files
+Etc
